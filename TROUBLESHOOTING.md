@@ -193,5 +193,5 @@ Si ninguna de estas soluciones funciona:
    - Mensajes de error completos
    - Capturas de pantalla si es posible
 
-3. **Revisa los issues existentes**: https://github.com/Luinux81/filament-lbcdev-map-field/issues
+3. **Revisa los issues existentes**: https://github.com/LBCDev-Libs/filament-lbcdev-map-field/issues
 

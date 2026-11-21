@@ -1,12 +1,14 @@
 # Filament Map Field
 
+> ⚠️ **Paquete abandonado.** Está sustituido por [`lbcdev/filament-maps-fields`](https://github.com/LBCDev-Libs/filament-maps-fields). Este repositorio está archivado y no recibirá más cambios.
+
 [![Filament v3](https://img.shields.io/badge/Filament-v3-orange?style=flat-square)](https://filamentphp.com)
 [![Filament v4](https://img.shields.io/badge/Filament-v4-orange?style=flat-square)](https://filamentphp.com)
 [![PHP Version](https://img.shields.io/badge/PHP-8.1%2B-blue?style=flat-square)](https://php.net)
 [![Laravel](https://img.shields.io/badge/Laravel-10%20%7C%2011%20%7C%2012-red?style=flat-square)](https://laravel.com)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 
-Un paquete de Filament que proporciona componentes de campo de mapa para formularios e infolists, utilizando el componente Livewire [lbcdev-map](https://github.com/Luinux81/livewire-lbcdev-component-map).
+Un paquete de Filament que proporciona componentes de campo de mapa para formularios e infolists, utilizando el componente Livewire [lbcdev-map](https://github.com/LBCDev-Libs/livewire-lbcdev-component-map).
 
 > **✨ Compatible con Filament v3 y v4** - Actualiza sin preocupaciones, sin cambios en tu código.
 
@@ -30,7 +32,7 @@ Un paquete de Filament que proporciona componentes de campo de mapa para formula
 - Laravel 10.x, 11.x o 12.x
 - **Filament 3.x o 4.x** ✨
 - Livewire 3.x
-- [lbcdev/livewire-map-component](https://github.com/Luinux81/livewire-lbcdev-component-map) ^1.0
+- [lbcdev/livewire-map-component](https://github.com/LBCDev-Libs/livewire-lbcdev-component-map) ^1.0
 
 > **Nota:** Este paquete es compatible con **Filament v3 y v4**. No necesitas hacer cambios en tu código al actualizar de Filament v3 a v4.
 
@@ -750,7 +752,7 @@ Si encuentras problemas al usar el paquete, consulta la [Guía de Solución de P
 
 Este paquete utiliza:
 
-- [lbcdev/livewire-map-component](https://github.com/Luinux81/livewire-lbcdev-component-map) - Componente Livewire de mapas
+- [lbcdev/livewire-map-component](https://github.com/LBCDev-Libs/livewire-lbcdev-component-map) - Componente Livewire de mapas
 - [Leaflet.js](https://leafletjs.com/) - Biblioteca de mapas interactivos
 - [Filament](https://filamentphp.com/) - Framework de administración para Laravel
 
@@ -762,8 +764,8 @@ Este paquete es software de código abierto licenciado bajo la [Licencia MIT](LI
 
 Si encuentras algún problema o tienes sugerencias:
 
-- 🐛 [Reportar un bug](https://github.com/Luinux81/filament-lbcdev-map-field/issues)
-- 💡 [Solicitar una característica](https://github.com/Luinux81/filament-lbcdev-map-field/issues)
+- 🐛 [Reportar un bug](https://github.com/LBCDev-Libs/filament-lbcdev-map-field/issues)
+- 💡 [Solicitar una característica](https://github.com/LBCDev-Libs/filament-lbcdev-map-field/issues)
 
 ## 👨‍💻 Autor
 
