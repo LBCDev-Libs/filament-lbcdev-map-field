@@ -2422,7 +2422,7 @@
             "version": "v1.0.4",
             "source": {
                 "type": "git",
-                "url": "https://github.com/Luinux81/livewire-lbcdev-component-map.git",
+                "url": "https://github.com/LBCDev-Libs/livewire-lbcdev-component-map.git",
                 "reference": "cc1622e525799efb57e17e15f09d5c8c9cc36665"
             },
             "dist": {
@@ -2468,8 +2468,8 @@
                 "map"
             ],
             "support": {
-                "issues": "https://github.com/Luinux81/livewire-lbcdev-component-map/issues",
-                "source": "https://github.com/Luinux81/livewire-lbcdev-component-map/tree/v1.0.4"
+                "issues": "https://github.com/LBCDev-Libs/livewire-lbcdev-component-map/issues",
+                "source": "https://github.com/LBCDev-Libs/livewire-lbcdev-component-map/tree/v1.0.4"
             },
             "time": "2026-01-05T10:21:52+00:00"
         },
